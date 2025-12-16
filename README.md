@@ -56,4 +56,4 @@ This reduces manual effort and improves efficiency and accuracy.
 
 ## Author
 Deehan Paul  
-B.Tech Student | Aspiring AI & Software Developer
+B.Tech Student KIIT University
